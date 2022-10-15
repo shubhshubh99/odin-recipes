@@ -1,0 +1,35 @@
+h1, h2, p, div.center {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+h1 {
+    background-color: grey;
+    color: #FFFFFF;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+p{
+    font-size: 18px;
+}
+
+div.center {
+    font-size: 18px;
+}
+
+ul.center-ul, ol.center-ol {
+    display: inline-block;
+    text-align: left;
+}
