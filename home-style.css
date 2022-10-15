@@ -1,0 +1,22 @@
+h1, h3{
+    text-align: center;
+}
+
+h1 {
+    font-size: 32px;
+    font-weight: bold;
+    color: hsl(0, 0%, 100%);
+    background-color: grey;
+}
+
+h3 {
+    font-size: 26px;
+    font-weight: bold;
+    color: #000000;
+}
+
+ul {
+    font-size: 18px;
+    display: table;
+    margin: 0 auto;
+}
